@@ -181,7 +181,7 @@ Sources each pack and extension uses.
 Updated sources from the following locations are always merged and included. `Note.` Active Source means the hosts file we use after whitelisting legit domains and removing dead inactive domains. Social sources don't have active lists as for now.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License | Active/Filter Source |
-|--------|---------------|-------------|-----------|------------|---------|----------------------|
+|--------|---------------|-------------|-----------|------------|---------|:--------------------:|
 1Hosts | badmojr | A merged hosts file from a variety of other lists | [LINK](https://forum.xda-developers.com/android/general/badmojr-one-host-file-to-block-t3713360) | [RAW](https://1hos.cf/) | All Rights Reserved | [ACTIVE](https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/active/filter/1hosts.cf.txt) |
 280blocker | AppliliZ | Mobile Adblock & Smartphone site ad block | [LINK](https://280blocker.net/) | [RAW](https://280blocker.net/files/280blocker_host.txt) |  CC BY-NC-ND 4.0 | [ACTIVE](https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/active/filter/280blocker.txt) |
 AdAway | Adaway ORG. | AdAway is an open source ad blocker for Android using the hosts file |[LINK](https://adaway.org/) | [RAW](https://adaway.org/hosts.txt) | CC BY 3.0 | [ACTIVE](https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/active/filter/adaway.org.txt) |
